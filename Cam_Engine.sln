@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cam_Engine", "Cam_Engine\Cam_Engine.vcxproj", "{58C5B6DE-EAF5-4D40-BF95-516FDA9045FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{2A2A5F91-7D40-4B56-92FE-5CBB4691E9E7}"
+	ProjectSection(SolutionItems) = preProject
+		Assets\Player.png = Assets\Player.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C5B6DE-EAF5-4D40-BF95-516FDA9045FC}.Debug|x64.ActiveCfg = Debug|x64
+		{58C5B6DE-EAF5-4D40-BF95-516FDA9045FC}.Debug|x64.Build.0 = Debug|x64
+		{58C5B6DE-EAF5-4D40-BF95-516FDA9045FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{58C5B6DE-EAF5-4D40-BF95-516FDA9045FC}.Debug|x86.Build.0 = Debug|Win32
+		{58C5B6DE-EAF5-4D40-BF95-516FDA9045FC}.Release|x64.ActiveCfg = Release|x64
+		{58C5B6DE-EAF5-4D40-BF95-516FDA9045FC}.Release|x64.Build.0 = Release|x64
+		{58C5B6DE-EAF5-4D40-BF95-516FDA9045FC}.Release|x86.ActiveCfg = Release|Win32
+		{58C5B6DE-EAF5-4D40-BF95-516FDA9045FC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC069964-440A-4677-9477-2C47DE74AD3D}
+	EndGlobalSection
+EndGlobal
